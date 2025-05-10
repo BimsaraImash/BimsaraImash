@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BimsaraImash
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Computer Science in UCSC , Sri Lanka.
-- 💞️ I’m looking to collaborate on big projecs.
+- 💞️ I’m looking to collaborate on big projects.
 - 📫 How to reach me bimsa2021@gmail.com
 
 <!---
